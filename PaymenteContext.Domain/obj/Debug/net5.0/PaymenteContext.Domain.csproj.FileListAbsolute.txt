@@ -1,0 +1,15 @@
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\obj\Debug\net5.0\PaymenteContext.Domain.csprojAssemblyReference.cache
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\obj\Debug\net5.0\PaymenteContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\obj\Debug\net5.0\PaymenteContext.Domain.AssemblyInfoInputs.cache
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\obj\Debug\net5.0\PaymenteContext.Domain.AssemblyInfo.cs
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\obj\Debug\net5.0\PaymenteContext.Domain.csproj.CoreCompileInputs.cache
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\bin\Debug\net5.0\PaymenteContext.Domain.deps.json
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\bin\Debug\net5.0\PaymenteContext.Domain.dll
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\bin\Debug\net5.0\ref\PaymenteContext.Domain.dll
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\bin\Debug\net5.0\PaymenteContext.Domain.pdb
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\bin\Debug\net5.0\PaymenteContext.Shared.dll
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\bin\Debug\net5.0\PaymenteContext.Shared.pdb
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\obj\Debug\net5.0\PaymenteContext.Domain.csproj.CopyComplete
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\obj\Debug\net5.0\PaymenteContext.Domain.dll
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\obj\Debug\net5.0\ref\PaymenteContext.Domain.dll
+D:\Estudo\ModelandoDominiosRicos\PaymenteContext\PaymenteContext.Domain\obj\Debug\net5.0\PaymenteContext.Domain.pdb

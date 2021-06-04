@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6OKD3Nq6ZfwdbvHKyVQKyJ6V7cBYMLCLXsV2OkpL8UeIP85BOfki7RK6uAgs4qZV2rLxed6AOPzxAdqs/0MXAQ==",
+  "success": true,
+  "projectFilePath": "D:\\Estudo\\ModelandoDominiosRicos\\PaymenteContext\\PaymenteContext.Shared\\PaymenteContext.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3970\\.nuget\\packages\\flunt\\2.0.3\\flunt.2.0.3.nupkg.sha512",
+    "C:\\Users\\3970\\.nuget\\packages\\flunt.extensions.br\\1.0.1\\flunt.extensions.br.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
